@@ -5,6 +5,8 @@ Html Contents created using Adobe Dreamweaver
 
 ### IDE: Adobe Dreamweaver CC
 
+Output folder contains the Adobe Dreamweaver view.
+
 :blush:
 
 Thanks</br>

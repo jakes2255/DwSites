@@ -1,2 +1,22 @@
 /* CSS Document */
+p {
+  text-align: center;
+  color: red;
+}
+h1 {
+  text-align: center;
+  color: blueviolet;
+}
+.flex-container {
+  display: flex;
+  background-color: chocolate;
+  flex-direction: row;
+  justify-content: center;
+}
 
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}

@@ -9,5 +9,5 @@ Output folder contains the Adobe Dreamweaver view.
 
 :blush:
 
-Thanks</br>
+Thanks,</br>
 Arun
